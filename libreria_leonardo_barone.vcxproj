@@ -137,7 +137,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="bisezione.c" />
-    <ClCompile Include="check_memory_leak.txt" />
     <ClCompile Include="main_prova.c" />
     <ClCompile Include="myArray.c" />
     <ClCompile Include="myFile.c" />

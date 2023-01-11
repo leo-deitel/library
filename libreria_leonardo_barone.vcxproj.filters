@@ -62,8 +62,5 @@
     <ClCompile Include="bisezione.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="check_memory_leak.txt">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
