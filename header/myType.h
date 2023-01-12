@@ -1,11 +1,6 @@
-
-// Studente:	Barone Leonardo
-// Matricola:	0001071539
-// Prova:		
 #define _CRT_SECURE_NO_WARNINGS
 #ifndef _MYTYPE
 #define _MYTYPE
-
 #include <stdlib.h>
 
 typedef struct {
