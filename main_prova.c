@@ -2,13 +2,13 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "bisezione.h"
-#include "myArray.h"
-#include "myFile.h"
-#include "myList.h"
-#include "myMath.h"
-#include "myRealType.h"
-#include "myType.h"
+#include "header/bisezione.h"
+#include "header/myArray.h"
+#include "header/myFile.h"
+#include "header/myList.h"
+#include "header/myMath.h"
+#include "header/myRealType.h"
+#include "header/myType.h"
 
 
 

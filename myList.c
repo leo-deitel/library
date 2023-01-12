@@ -1,5 +1,5 @@
-#include "myType.h"
-#include "myList.h"
+#include "header/myType.h"
+#include "header/myList.h"
 
 #include <stdlib.h>
 #include <stdio.h>

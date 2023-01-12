@@ -1,5 +1,5 @@
 
-#include "myType.h"
+#include "header/myType.h"
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>

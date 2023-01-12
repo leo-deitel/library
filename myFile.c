@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include "myFile.h"
-#include "myRealType.h"
+#include "header/myFile.h"
+#include "header/myRealType.h"
 
 int readField(char buffer[], char separator, FILE* f) {
 

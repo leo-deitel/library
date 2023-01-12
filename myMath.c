@@ -1,4 +1,4 @@
-#include "myMath.h"
+#include "header/myMath.h"
 #include <math.h>
 
 double myMin(double a, double b) {

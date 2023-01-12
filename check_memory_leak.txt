@@ -1,7 +1,10 @@
+// to check memoryleaks:
+
 #define _CRTDBG_MAP_ALLOC
 #include <crtdbg.h>
-_CrtSetReportMode(_CRT_WARN, _CRTDBG_MODE_DEBUG);
 
-...
+
+<program>
+
 
 _CrtDumpMemoryLeaks();

@@ -1,4 +1,4 @@
-#include "myArray.h"
+#include "header/myArray.h"
 #include <stdio.h>
 #include <stdlib.h>
 
