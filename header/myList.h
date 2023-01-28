@@ -27,6 +27,8 @@ void showlistRic(list l);
 void freelistRic(list l);
 void freelist(list* l);
 
+// altra modalità per fare freelist
+void freelist2(list* l);
 
 // Restituisce l'elemento all'indice index
 //	l: Il puntatore alla lista

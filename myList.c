@@ -114,21 +114,21 @@ void freelist(list* l)
 
 
 
-//void freelist(list* l)
-//{
-//	list lTemp = *l;
-//
-//	if (*l == NULL) {
-//		return;
-//	}
-//	while (lTemp->next != NULL) {
-//		list toKill = lTemp;
-//		lTemp = lTemp->next;
-//		free(toKill);
-//	}
-//	free(lTemp);
-//	*l = NULL;
-//}
+void freelist2(list* l)
+{
+	list lTemp = *l;
+
+	if (*l == NULL) {
+		return;
+	}
+	while (lTemp->next != NULL) {
+		list toKill = lTemp;
+		lTemp = lTemp->next;
+		free(toKill);
+	}
+	free(lTemp);
+	*l = NULL;
+}
 
 
 
